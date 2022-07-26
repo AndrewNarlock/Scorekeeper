@@ -1,0 +1,11 @@
+body {
+    height: 102vh;
+    background-color: hsl(218, 33%, 28%);
+}
+
+.keeper {
+    background-color: hsl(170, 48%, 53%);
+    font-size: 2em;
+    justify-content: center;
+    align-items: center;
+}
